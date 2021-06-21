@@ -37,7 +37,7 @@ header h1	{
 
 #nav_bar	{
 			text-align:center;
-			background-color:red;
+			background-color: pink;
 		}
 
 #nav_bar a	{
@@ -46,7 +46,7 @@ header h1	{
 			margin-left: 25px;
 			margin-right: 25px;
 			display: inline-block;
-			background-color:blue;
+			background-color: #B6DCFE;
 			color: white;
 		}
 
